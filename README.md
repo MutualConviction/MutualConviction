@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=black&style=for-the-badge" height="32" alt="firefox logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="32" alt="github logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Emacs-white?style=for-the-badge&logo=gnuemacs&logoSize=auto" />
 </div>
 
 ###
