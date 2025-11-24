@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a 19 year old developer from the north of Scotland. I primarily code in Delphi and Lua, although I also occasionally use Kotlin and Nim.</p>
+<p align="left">I'm a 19 year old developer from the north of Scotland. I primarily code in Delphi and Lua, although I also occasionally use Kotlin and Nim. I'm currently working on SDWL, a simple windowing library for Delphi.</p>
 
 ###
 
