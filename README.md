@@ -33,9 +33,9 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="32" alt="github logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Emacs-white?style=for-the-badge&logo=gnuemacs&logoSize=auto" />
+  <img src="https://img.shields.io/badge/Emacs-a3a3ff?style=for-the-badge&logo=gnuemacs&logoSize=auto" alt="emacs logo" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Steam-32394b?style=for-the-badge&logo=steam&logoSize=auto" />
+  <img src="https://img.shields.io/badge/Steam-32394b?style=for-the-badge&logo=steam&logoSize=auto" alt="steam logo" />
 </div>
 
 ###
