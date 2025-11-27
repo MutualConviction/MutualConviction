@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/Emacs-a3a3ff?style=for-the-badge&logo=gnuemacs&logoSize=auto" alt="emacs logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Steam-32394b?style=for-the-badge&logo=steam&logoSize=auto" alt="steam logo" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Void%20Linux-303030?style=for-the-badge&logo=voidlinux" alt="void linux logo">
 </div>
 
 ###
