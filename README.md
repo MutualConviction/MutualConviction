@@ -25,7 +25,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Alpine Linux-0D597F?logo=alpinelinux&logoColor=white&style=for-the-badge" height="32" alt="alpinelinux logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="32" alt="windows8 logo"  />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="32" alt="windows11 logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="32" alt="bash logo"  />
   <img width="5" />
@@ -36,8 +36,6 @@
   <img src="https://img.shields.io/badge/Emacs-a3a3ff?style=for-the-badge&logo=gnuemacs&logoSize=auto" alt="emacs logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Steam-32394b?style=for-the-badge&logo=steam&logoSize=auto" alt="steam logo" />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Void%20Linux-303030?style=for-the-badge&logo=voidlinux" alt="void linux logo">
 </div>
 
 ###
