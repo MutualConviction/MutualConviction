@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a 19 year old developer from the north of Scotland. I primarily code in Delphi and Lua, but I also dabble in Kotlin and C from time to time. I'm currently working on SDWL, a simple cross-platform windowing library for Delphi.</p>
+<p align="left">I'm a 19 year old developer from the north of Scotland. I primarily code in Delphi and Lua, but I also dabble in Kotlin and V from time to time. I'm currently working on SDWL, a simple cross-platform windowing library for Delphi.</p>
 
 ###
 
