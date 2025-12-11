@@ -1,1 +1,1 @@
-⚠️ This GitHub account is merely a mirror of my Codeberg page so I will not respond to any issues on this platform. If you want access to my latest projects, go check out my [Codeberg](https://codeberg.org/MutualConviction) page.
+⚠️ I've moved over to [Codeberg](https://codeberg.org/MutualConviction).
